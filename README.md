@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-# Digital Persona Finder PRO
+# Digital Persona Finder 
 
 A modern interactive web application that combines a dynamic **digital personality assessment system** with a **professional Linktree-style profile interface**.
 
