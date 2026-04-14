@@ -236,3 +236,14 @@ GitHub:
 
 ## Academic Purpose
 This project was developed as part of an academic assignment in web development and interactive interface design.
+
+---
+
+## Attachment
+
+<img width="1912" height="967" alt="Screenshot 2026-04-14 214956" src="https://github.com/user-attachments/assets/2ffd8242-dae7-4d49-a4d5-14caec57ba0e" />
+<img width="1891" height="967" alt="Screenshot 2026-04-14 215136" src="https://github.com/user-attachments/assets/2ef7a99d-feda-4917-9c99-8b3a4dec1463" />
+<img width="1901" height="965" alt="Screenshot 2026-04-14 215056" src="https://github.com/user-attachments/assets/01db568a-87a2-48cf-8049-3d264b1e45e9" />
+<img width="1911" height="965" alt="Screenshot 2026-04-14 215030" src="https://github.com/user-attachments/assets/c9e7fdd0-cbed-4497-b7c9-7ea7cc2f7b3f" />
+<img width="1911" height="965" alt="Screenshot 2026-04-14 215010" src="https://github.com/user-attachments/assets/0d8005a9-5d52-472d-b8db-8c23ed6402f0" />
+
